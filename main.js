@@ -1,3 +1,3 @@
 const test = () => {
-  console.log("Hello GAS!");
+  console.log("こんにちは、GAS!");
 };
